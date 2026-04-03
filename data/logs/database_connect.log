@@ -1,0 +1,11 @@
+Successfully connected to database
+Error initializing database tables: Failed to fetch row : ERROR:  permission denied for schema public at character 33
+
+Successfully connected to database
+Database tables initialized
+Successfully connected to database
+Database tables initialized
+Successfully connected to database
+Database tables initialized
+Successfully connected to database
+Database tables initialized
