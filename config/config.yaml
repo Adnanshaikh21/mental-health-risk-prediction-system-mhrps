@@ -1,0 +1,26 @@
+# Configuration Files
+# ## `config/config.yaml`
+# General project settings.
+# ```yaml
+default:
+  data:
+    raw: "data/output/raw_data.rds"
+    cleaned: "data/output/cleaned_data.rds"
+    features: "data/output/features_data.rds"
+    scaling_params: "data/output/scaling_params.rds"
+    selected_features: "data/output/selected_features.rds"
+  model:
+    path: "model/output/model.rds"
+    test_data: "model/output/test_data.rds"
+  api:
+    host: "127.0.0.1"
+    port: 8000
+    key: "secret_key"
+  dashboard:
+    educator_port: 3838
+    counselor_port: 3839
+    admin_port: 3840
+  automation:
+    schedule: "weekly"
+  monitoring:
+    accuracy_threshold: 0.8

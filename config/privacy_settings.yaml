@@ -1,0 +1,6 @@
+privacy:
+  anonymization: "sha256"
+  data_retention_days: 365
+  consent_required: true
+  gdpr_compliant: true
+  ferpa_compliant: true
