@@ -12,7 +12,7 @@ logger <- function(message, file = "C:/Project/Second/api/logs/api_access.log") 
 }
 
 # Google Sheet ID (replace with actual ID)
-academic_sheet_id <- "1et83PmyxeYxqVmTPVXXxNCgojm8EEJWgUC9UjumNr4c"
+academic_sheet_id <- ""
 
 # Function to normalize student_id
 normalize_student_id <- function(id) {
