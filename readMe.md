@@ -136,30 +136,6 @@ The system automatically installs all required packages. Key packages include:
 
 ### 3. Configuration
 
-#### Environment Variables
-Create a `.env` file in the project root:
-```bash
-# Database Configuration
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=mdb
-DB_USER=your_username
-DB_PASSWORD=your_password
-
-# API Configuration
-API_KEY=your_secure_api_key
-API_HOST=127.0.0.1
-API_PORT=8000
-
-# Dashboard Ports
-EDUCATOR_PORT=3838
-COUNSELOR_PORT=3839
-ADMIN_PORT=3840
-
-# Security
-ENCRYPTION_KEY=your_encryption_key
-```
-
 #### Configuration Files
 - `config/config.yaml` - Main configuration
 - `config/database_config.yaml` - Database settings
@@ -380,9 +356,6 @@ docker-compose up --build
 4. Add tests for new functionality
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📞 Support
 
@@ -390,13 +363,4 @@ For support and questions:
 - Create an issue in the repository
 - Contact the development team
 - Check the troubleshooting section
-
-## 🔄 Version History
-
-- **v1.0.0**: Initial release with core functionality
-- **v1.1.0**: Added comprehensive testing and documentation
-- **v1.2.0**: Enhanced security and error handling
-
 ---
-
-**Note**: This system is designed for educational institutions and should be used in compliance with local privacy and data protection regulations.
