@@ -1,0 +1,105 @@
+[2025-07-19 22:38:50.776952] API: Prediction error: argument is of length zero
+[2025-07-19 22:43:49.576706] API: Model file not found: model/output/model.rds
+[2025-07-19 23:19:47.014371] API: Prediction error: argument is of length zero
+[2025-07-20 00:22:28.707728] API: Prediction error: argument is of length zero
+[2025-07-20 00:26:47.344228] API: Prediction error: argument "semester" is missing, with no default
+[2025-07-20 00:28:10.316884] API: Prediction error: argument "semester" is missing, with no default
+[2025-07-20 00:32:12.82819] API: Prediction error: argument is of length zero
+[2025-07-20 11:23:47.336065] API: Invalid or missing API key
+[2025-07-20 11:23:51.182724] API: Invalid or missing API key
+[2025-07-20 11:29:15.720808] API: Invalid or missing API key
+[2025-07-20 11:35:25.772034] API: Invalid or missing API key
+[2025-07-20 11:57:49.449009] API: Invalid or missing API key
+[2025-07-22 20:26:24.400686] API: Invalid or missing API key
+[2025-07-22 21:01:44.423823] API00000000000 e$message
+[2025-07-22 21:01:44.426643] API0101 e$message
+[2025-07-22 21:01:44.428832] API2222 e$message
+[2025-07-22 21:01:44.431428] API: Model file not found: model/output/model.rds
+[2025-07-22 21:26:15.801359] API00000000000 e$message
+[2025-07-22 21:26:15.803005] API0101 e$message
+[2025-07-22 21:26:15.804815] API2222 e$message
+[2025-07-22 21:26:15.807002] API: Model file not found: model/output/model.rds
+[2025-07-23 13:43:30.866449] API00000000000 e$message
+[2025-07-23 13:43:30.871287] API0101 e$message
+[2025-07-23 13:43:30.87287] API2222 e$message
+[2025-07-23 13:43:30.874745] API: Model file not found: model/output/model.rds
+[2025-07-23 13:52:39.29825] API00000000000 e$message
+[2025-07-23 13:52:39.299959] API0101 e$message
+[2025-07-23 13:52:39.301909] API: Prediction error: argument is of length zero
+[2025-07-23 13:54:19.828052] API00000000000 e$message
+[2025-07-23 13:54:19.829832] API0101 e$message
+[2025-07-23 13:54:19.831719] API: Prediction error: argument is of length zero
+[2025-07-23 13:58:29.023741] API00000000000 e$message
+[2025-07-23 13:58:29.025629] API0101 e$message
+[2025-07-23 13:58:29.02736] API2222 e$message
+[2025-07-23 13:58:29.028935] API: Model file not found: model/output/model.rds
+[2025-07-23 19:35:36.495401] API: Invalid API key
+[2025-07-23 19:48:36.504363] API: Missing Authorization header
+[2025-07-23 23:02:07.885089] API: Missing Authorization header
+[2025-07-23 23:11:26.644124] API: Missing Authorization header
+[2025-07-23 23:26:56.984995] API: Model file not found: model/output/model.rds
+[2025-07-23 23:33:18.370256] API: Model file not found: model/output/model.rds
+[2025-07-23 23:43:34.576101] API: Model file not found: model/output/model.rds
+[2025-07-23 23:52:37.019442] Model file not found at: model/output/model.rds (working dir: C:/Project/Second/api)
+[2025-07-23 23:52:37.021098] API Error [500]: Model file not found at: model/output/model.rds (working dir: C:/Project/Second/api)
+[2025-07-24 00:01:43.068467] Internal server error: replacement has 0 rows, data has 1
+[2025-07-24 00:01:43.069488] API Error [500]: Internal server error: replacement has 0 rows, data has 1
+[2025-07-24 00:11:28.115673] API Error [401]: Missing Authorization header
+[2025-07-24 00:18:39.780383] API Error [400]: Invalid JSON in request body: argument "mental_health_score" is missing, with no default
+[2025-07-24 00:18:39.783616] Internal server error: argument "mental_health_score" is missing, with no default
+[2025-07-24 00:18:39.786402] API Error [500]: Internal server error: argument "mental_health_score" is missing, with no default
+[2025-07-24 00:23:08.705] Missing scaling parameters for: mental_health_score. Available: semester, gpa, attendance_rate, course_failures, library_visits, extracurricular_hours, campus_events_attended, engagement_score, phq_total, gad_total, academic_pressure_rating, emotional_resilience_rating, mental_health_battery
+[2025-07-24 00:23:08.706246] API Error [500]: Missing scaling parameters for: mental_health_score. Available: semester, gpa, attendance_rate, course_failures, library_visits, extracurricular_hours, campus_events_attended, engagement_score, phq_total, gad_total, academic_pressure_rating, emotional_resilience_rating, mental_health_battery
+[2025-07-24 00:23:38.806896] Missing scaling parameters for: mental_health_score. Available: semester, gpa, attendance_rate, course_failures, library_visits, extracurricular_hours, campus_events_attended, engagement_score, phq_total, gad_total, academic_pressure_rating, emotional_resilience_rating, mental_health_battery
+[2025-07-24 00:23:38.80773] API Error [500]: Missing scaling parameters for: mental_health_score. Available: semester, gpa, attendance_rate, course_failures, library_visits, extracurricular_hours, campus_events_attended, engagement_score, phq_total, gad_total, academic_pressure_rating, emotional_resilience_rating, mental_health_battery
+[2025-07-24 00:28:12.712889] API Error [401]: Missing Authorization header
+[2025-07-24 20:08:53.072876] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:42:00.499364] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:46:47.465694] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:46:53.646747] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:46:56.653187] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:00.357966] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:02.459156] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:03.902893] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:11.472727] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:13.342092] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:19.910446] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:23.866669] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:28.60544] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:31.378851] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:33.991874] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:38.460722] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:39.761096] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:40.472037] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 20:47:47.431528] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:46:33.991505] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:21.931283] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:38.666882] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:42.722524] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:50.087814] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:50.860256] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:49:55.854003] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:00.611219] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:08.172788] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:13.127217] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:14.415732] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:17.925265] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:20.031359] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:21.416201] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:22.085702] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:24.088285] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-24 21:50:26.503012] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 16:53:37.315129] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 16:53:41.904409] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 16:53:43.103166] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 16:53:46.619823] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 20:02:45.39363] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 20:02:57.39688] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 20:02:57.532645] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-25 20:03:00.573597] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-30 11:18:59.221896] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-31 16:10:18.40842] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-31 16:10:23.775392] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-07-31 16:10:26.462598] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-08-07 20:28:25.654383] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default
+[2025-11-26 09:47:34.217725] API Error [400]: Invalid JSON in request body: argument "semester" is missing, with no default

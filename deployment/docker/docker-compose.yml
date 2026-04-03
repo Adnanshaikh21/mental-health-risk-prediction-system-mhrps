@@ -1,0 +1,28 @@
+version: '3'
+services:
+  dashboard:
+    build: .
+    ports:
+      - "3838:3838"
+    volumes:
+      - ./dashboards:/srv/shiny-server
+      - ./config:/srv/shiny-server/config
+      - ./data:/srv/shiny-server/data
+      - ./model:/srv/shiny-server/model
+      - ./api:/srv/shiny-server/api
+      - ./interventions:/srv/shiny-server/interventions
+      - ./automation:/srv/shiny-server/automation
+      - ./security:/srv/shiny-server/security
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./api:/srv/api
+      - ./config:/srv/api/config
+      - ./data:/srv/api/data
+      - ./model:/srv/api/model
+      - ./interventions:/srv/api/interventions
+      - ./automation:/srv/api/automation

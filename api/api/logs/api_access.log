@@ -1,0 +1,1162 @@
+[2025-07-19 22:35:36.436593] Health check accessed
+[2025-07-19 22:38:06.44328] API: Health check accessed
+[2025-07-19 22:45:28.946822] API: Health check accessed
+[2025-07-19 22:45:29.508614] API: Health check accessed
+[2025-07-19 23:18:29.882748] API: Health check accessed
+[2025-07-20 00:21:47.358207] API: Health check accessed
+[2025-07-20 00:26:38.396646] API: Health check accessed
+[2025-07-20 00:31:55.282964] API: Health check accessed
+[2025-07-20 11:23:38.955743] API: Health check accessed
+[2025-07-20 11:28:32.02055] API: Health check accessed
+[2025-07-20 11:34:52.867311] API: Health check accessed
+[2025-07-20 11:57:13.087437] API: Health check accessed
+[2025-07-22 20:25:53.00136] API: Health check accessed
+[2025-07-22 21:25:29.206072] API: Health check accessed
+[2025-07-23 13:42:49.854536] API: Health check accessed
+[2025-07-23 13:52:05.382153] API: Health check accessed
+[2025-07-23 13:53:47.156922] API: Health check accessed
+[2025-07-23 13:57:57.731833] API: Health check accessed
+[2025-07-23 19:34:01.508574] API: Health check accessed
+[2025-07-23 19:48:02.707703] API: Health check accessed
+[2025-07-23 23:01:33.150157] API: Health check accessed
+[2025-07-23 23:02:07.878981] API: Received request with headers: {}
+[2025-07-23 23:09:29.86969] API: Health check accessed
+[2025-07-23 23:11:26.641904] API: Received request with headers: {}
+[2025-07-23 23:23:18.145777] API: Health check accessed
+[2025-07-23 23:23:18.514769] API: Health check accessed
+[2025-07-23 23:24:18.352422] API: Health check accessed
+[2025-07-23 23:24:18.36121] API: Health check accessed
+[2025-07-23 23:26:56.866271] API: Health check accessed
+[2025-07-23 23:26:56.879984] API: Health check accessed
+[2025-07-23 23:26:56.965939] API: Health check accessed
+[2025-07-23 23:26:56.983194] API: Received request with headers: {}
+[2025-07-23 23:31:21.960412] API: Health check accessed
+[2025-07-23 23:31:21.97062] API: Health check accessed
+[2025-07-23 23:32:21.131945] API: Health check accessed
+[2025-07-23 23:32:21.147358] API: Health check accessed
+[2025-07-23 23:32:48.542064] API: Health check accessed
+[2025-07-23 23:32:48.555695] API: Health check accessed
+[2025-07-23 23:33:18.253256] API: Health check accessed
+[2025-07-23 23:33:18.264732] API: Health check accessed
+[2025-07-23 23:33:18.350209] API: Health check accessed
+[2025-07-23 23:33:18.368222] API: Received request with headers: {}, body: {"semester":1,"gpa":5.5,"attendance_rate":88,"course_failures":0,"academic_probation":"No","phq_total":22,"gad_total":12,"self_harm_thoughts":"Yes","mental_health_score":11,"outcome":10}
+[2025-07-23 23:43:34.344456] API: Health check accessed
+[2025-07-23 23:43:34.360525] API: Health check accessed
+[2025-07-23 23:43:34.508331] API: Health check accessed
+[2025-07-23 23:43:34.57438] API: Received request with headers: {}, body: {"semester":1,"gpa":5.5,"attendance_rate":88,"course_failures":0,"academic_probation":"No","phq_total":22,"gad_total":12,"self_harm_thoughts":"Yes","mental_health_score":11,"outcome":10}
+[2025-07-23 23:51:54.468294] API: Health check accessed
+[2025-07-23 23:51:54.469402] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:51:54.470288] API: Model path: model/output/model.rds
+[2025-07-23 23:51:54.471155] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:51:54.4721] API: Model file exists: FALSE
+[2025-07-23 23:51:54.472906] API: Scaling file exists: FALSE
+[2025-07-23 23:51:54.563309] API: Health check accessed
+[2025-07-23 23:51:54.56458] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:51:54.565907] API: Model path: model/output/model.rds
+[2025-07-23 23:51:54.567141] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:51:54.568981] API: Model file exists: FALSE
+[2025-07-23 23:51:54.570295] API: Scaling file exists: FALSE
+[2025-07-23 23:52:08.546356] API: Health check accessed
+[2025-07-23 23:52:08.547673] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:52:08.548678] API: Model path: model/output/model.rds
+[2025-07-23 23:52:08.549696] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:52:08.550884] API: Model file exists: FALSE
+[2025-07-23 23:52:08.552158] API: Scaling file exists: FALSE
+[2025-07-23 23:52:08.566866] API: Health check accessed
+[2025-07-23 23:52:08.568391] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:52:08.569838] API: Model path: model/output/model.rds
+[2025-07-23 23:52:08.571146] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:52:08.572544] API: Model file exists: FALSE
+[2025-07-23 23:52:08.573571] API: Scaling file exists: FALSE
+[2025-07-23 23:52:36.892565] API: Health check accessed
+[2025-07-23 23:52:36.893711] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:52:36.894868] API: Model path: model/output/model.rds
+[2025-07-23 23:52:36.896265] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:52:36.897357] API: Model file exists: FALSE
+[2025-07-23 23:52:36.898217] API: Scaling file exists: FALSE
+[2025-07-23 23:52:36.909522] API: Health check accessed
+[2025-07-23 23:52:36.910552] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:52:36.911652] API: Model path: model/output/model.rds
+[2025-07-23 23:52:36.913092] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:52:36.914436] API: Model file exists: FALSE
+[2025-07-23 23:52:36.915581] API: Scaling file exists: FALSE
+[2025-07-23 23:52:36.988735] API: Health check accessed
+[2025-07-23 23:52:36.990074] API: Current directory: C:/Project/Second/api
+[2025-07-23 23:52:36.991313] API: Model path: model/output/model.rds
+[2025-07-23 23:52:36.99247] API: Scaling path: data/output/scaling_params.rds
+[2025-07-23 23:52:36.993852] API: Model file exists: FALSE
+[2025-07-23 23:52:36.994997] API: Scaling file exists: FALSE
+[2025-07-23 23:52:37.013715] API: Prediction request received
+[2025-07-23 23:52:37.015566] API: Looking for model at: model/output/model.rds
+[2025-07-23 23:52:37.016728] API: Looking for scaling params at: data/output/scaling_params.rds
+[2025-07-23 23:52:37.017895] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:01:42.894723] API: Health check accessed
+[2025-07-24 00:01:42.896145] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:01:42.897364] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:01:42.89836] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:01:42.89938] API: Model file exists: TRUE
+[2025-07-24 00:01:42.900351] API: Scaling file exists: TRUE
+[2025-07-24 00:01:42.941212] API: Health check accessed
+[2025-07-24 00:01:42.942135] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:01:42.942982] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:01:42.943813] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:01:42.944725] API: Model file exists: TRUE
+[2025-07-24 00:01:42.945542] API: Scaling file exists: TRUE
+[2025-07-24 00:01:43.022095] API: Health check accessed
+[2025-07-24 00:01:43.023364] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:01:43.024434] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:01:43.025397] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:01:43.026475] API: Model file exists: TRUE
+[2025-07-24 00:01:43.027426] API: Scaling file exists: TRUE
+[2025-07-24 00:01:43.043912] API: Prediction request received
+[2025-07-24 00:01:43.045554] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:01:43.046579] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:01:43.04753] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:01:43.048594] API: Loading model and scaling parameters
+[2025-07-24 00:01:43.065424] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:01:43.067245] API: Applying scaling to input data
+[2025-07-24 00:08:44.224476] API: Health check accessed
+[2025-07-24 00:08:44.225501] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:08:44.226441] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:08:44.227749] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:08:44.229168] API: Model file exists: TRUE
+[2025-07-24 00:08:44.230402] API: Scaling file exists: TRUE
+[2025-07-24 00:08:44.231796] API: Health check passed - returning OK
+[2025-07-24 00:08:44.419239] API: Prediction request received
+[2025-07-24 00:08:44.420559] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:08:44.42142] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:08:44.422237] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:08:44.423135] API: Loading model and scaling parameters
+[2025-07-24 00:08:44.436875] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:08:44.438394] API: Applying scaling to input data
+[2025-07-24 00:08:44.43935] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:08:44.441481] API: Making prediction
+[2025-07-24 00:08:45.328858] API: Prediction completed: High
+[2025-07-24 00:08:45.331727] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:09:44.34399] API: Health check accessed
+[2025-07-24 00:09:44.345001] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:09:44.345912] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:09:44.346819] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:09:44.347926] API: Model file exists: TRUE
+[2025-07-24 00:09:44.349035] API: Scaling file exists: TRUE
+[2025-07-24 00:09:44.350014] API: Health check passed - returning OK
+[2025-07-24 00:09:44.385341] API: Health check accessed
+[2025-07-24 00:09:44.386296] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:09:44.387305] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:09:44.388209] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:09:44.389174] API: Model file exists: TRUE
+[2025-07-24 00:09:44.390042] API: Scaling file exists: TRUE
+[2025-07-24 00:09:44.390935] API: Health check passed - returning OK
+[2025-07-24 00:09:44.484054] API: Health check accessed
+[2025-07-24 00:09:44.485109] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:09:44.486057] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:09:44.486966] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:09:44.487951] API: Model file exists: TRUE
+[2025-07-24 00:09:44.488987] API: Scaling file exists: TRUE
+[2025-07-24 00:09:44.489998] API: Health check passed - returning OK
+[2025-07-24 00:09:44.505327] API: Prediction request received
+[2025-07-24 00:09:44.506973] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:09:44.507989] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:09:44.508985] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:09:44.510096] API: Loading model and scaling parameters
+[2025-07-24 00:09:44.525308] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:09:44.52693] API: Applying scaling to input data
+[2025-07-24 00:09:44.527894] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:09:44.530325] API: Making prediction
+[2025-07-24 00:09:44.555504] API: Prediction completed: High
+[2025-07-24 00:09:44.556642] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:10:55.741166] API: Health check accessed
+[2025-07-24 00:10:55.743608] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:10:55.745324] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:10:55.74696] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:10:55.74878] API: Model file exists: TRUE
+[2025-07-24 00:10:55.750212] API: Scaling file exists: TRUE
+[2025-07-24 00:10:55.751584] API: Health check passed - returning OK
+[2025-07-24 00:11:28.113844] API: Prediction request received
+[2025-07-24 00:12:29.526062] API: Health check accessed
+[2025-07-24 00:12:29.527439] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:12:29.528659] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:29.529676] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:29.530759] API: Model file exists: TRUE
+[2025-07-24 00:12:29.531611] API: Scaling file exists: TRUE
+[2025-07-24 00:12:29.532594] API: Health check passed - returning OK
+[2025-07-24 00:12:29.568739] API: Prediction request received
+[2025-07-24 00:12:29.570273] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:29.571187] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:29.572045] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:12:29.572984] API: Loading model and scaling parameters
+[2025-07-24 00:12:29.588897] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:12:29.591573] API: Applying scaling to input data
+[2025-07-24 00:12:29.592678] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:12:29.594848] API: Making prediction
+[2025-07-24 00:12:29.617944] API: Prediction completed: High
+[2025-07-24 00:12:29.618907] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:12:41.740485] API: Health check accessed
+[2025-07-24 00:12:41.742064] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:12:41.743414] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:41.744496] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:41.745576] API: Model file exists: TRUE
+[2025-07-24 00:12:41.746649] API: Scaling file exists: TRUE
+[2025-07-24 00:12:41.747563] API: Health check passed - returning OK
+[2025-07-24 00:12:41.757154] API: Health check accessed
+[2025-07-24 00:12:41.758483] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:12:41.75963] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:41.761151] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:41.762385] API: Model file exists: TRUE
+[2025-07-24 00:12:41.763349] API: Scaling file exists: TRUE
+[2025-07-24 00:12:41.764324] API: Health check passed - returning OK
+[2025-07-24 00:12:41.832084] API: Health check accessed
+[2025-07-24 00:12:41.833105] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:12:41.834177] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:41.835141] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:41.836164] API: Model file exists: TRUE
+[2025-07-24 00:12:41.837065] API: Scaling file exists: TRUE
+[2025-07-24 00:12:41.837973] API: Health check passed - returning OK
+[2025-07-24 00:12:41.851866] API: Prediction request received
+[2025-07-24 00:12:41.853359] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:12:41.854243] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:12:41.855118] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:12:41.856113] API: Loading model and scaling parameters
+[2025-07-24 00:12:41.871021] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:12:41.872616] API: Applying scaling to input data
+[2025-07-24 00:12:41.873636] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:12:41.875991] API: Making prediction
+[2025-07-24 00:12:41.897067] API: Prediction completed: High
+[2025-07-24 00:12:41.898214] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:13:12.874186] API: Health check accessed
+[2025-07-24 00:13:12.875141] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:13:12.876371] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:13:12.877904] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:13:12.878946] API: Model file exists: TRUE
+[2025-07-24 00:13:12.879812] API: Scaling file exists: TRUE
+[2025-07-24 00:13:12.880653] API: Health check passed - returning OK
+[2025-07-24 00:13:12.930967] API: Health check accessed
+[2025-07-24 00:13:12.931889] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:13:12.93274] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:13:12.933573] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:13:12.934496] API: Model file exists: TRUE
+[2025-07-24 00:13:12.93536] API: Scaling file exists: TRUE
+[2025-07-24 00:13:12.936196] API: Health check passed - returning OK
+[2025-07-24 00:13:13.075619] API: Health check accessed
+[2025-07-24 00:13:13.076783] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:13:13.0784] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:13:13.079697] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:13:13.080707] API: Model file exists: TRUE
+[2025-07-24 00:13:13.08159] API: Scaling file exists: TRUE
+[2025-07-24 00:13:13.082438] API: Health check passed - returning OK
+[2025-07-24 00:13:13.117859] API: Prediction request received
+[2025-07-24 00:13:13.12034] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:13:13.121444] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:13:13.122359] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:13:13.123306] API: Loading model and scaling parameters
+[2025-07-24 00:13:13.145136] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:13:13.147368] API: Applying scaling to input data
+[2025-07-24 00:13:13.148365] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:13:13.150576] API: Making prediction
+[2025-07-24 00:13:13.176638] API: Prediction completed: High
+[2025-07-24 00:13:13.178046] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:18:39.776181] API: Prediction request received
+[2025-07-24 00:23:08.433619] API: Health check accessed
+[2025-07-24 00:23:08.43461] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:23:08.435475] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:08.43692] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:08.438547] API: Model file exists: TRUE
+[2025-07-24 00:23:08.439863] API: Scaling file exists: TRUE
+[2025-07-24 00:23:08.441115] API: Health check passed - returning OK
+[2025-07-24 00:23:08.488068] API: Health check accessed
+[2025-07-24 00:23:08.489236] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:23:08.490253] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:08.491131] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:08.492127] API: Model file exists: TRUE
+[2025-07-24 00:23:08.492982] API: Scaling file exists: TRUE
+[2025-07-24 00:23:08.493813] API: Health check passed - returning OK
+[2025-07-24 00:23:08.605598] API: Health check accessed
+[2025-07-24 00:23:08.606715] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:23:08.607869] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:08.608981] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:08.610219] API: Model file exists: TRUE
+[2025-07-24 00:23:08.611387] API: Scaling file exists: TRUE
+[2025-07-24 00:23:08.612746] API: Health check passed - returning OK
+[2025-07-24 00:23:08.677556] API: Prediction request received
+[2025-07-24 00:23:08.679933] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:08.680963] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:08.681865] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:23:08.682871] API: Loading model and scaling parameters
+[2025-07-24 00:23:08.70135] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:23:08.703394] API: Applying scaling to input data
+[2025-07-24 00:23:38.627896] API: Health check accessed
+[2025-07-24 00:23:38.629073] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:23:38.630381] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:38.632796] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:38.634219] API: Model file exists: TRUE
+[2025-07-24 00:23:38.635327] API: Scaling file exists: TRUE
+[2025-07-24 00:23:38.636471] API: Health check passed - returning OK
+[2025-07-24 00:23:38.786707] API: Prediction request received
+[2025-07-24 00:23:38.788165] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:23:38.789023] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:23:38.789845] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:23:38.790737] API: Loading model and scaling parameters
+[2025-07-24 00:23:38.804517] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:23:38.806035] API: Applying scaling to input data
+[2025-07-24 00:26:36.228279] API: Health check accessed
+[2025-07-24 00:26:36.230033] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:36.231564] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:36.232961] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:36.234404] API: Model file exists: TRUE
+[2025-07-24 00:26:36.235737] API: Scaling file exists: TRUE
+[2025-07-24 00:26:36.237065] API: Health check passed - returning OK
+[2025-07-24 00:26:36.349313] API: Health check accessed
+[2025-07-24 00:26:36.350726] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:36.352014] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:36.353306] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:36.354716] API: Model file exists: TRUE
+[2025-07-24 00:26:36.355978] API: Scaling file exists: TRUE
+[2025-07-24 00:26:36.357249] API: Health check passed - returning OK
+[2025-07-24 00:26:36.502571] API: Health check accessed
+[2025-07-24 00:26:36.503842] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:36.504832] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:36.505748] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:36.506762] API: Model file exists: TRUE
+[2025-07-24 00:26:36.507653] API: Scaling file exists: TRUE
+[2025-07-24 00:26:36.508544] API: Health check passed - returning OK
+[2025-07-24 00:26:36.544374] API: Prediction request received
+[2025-07-24 00:26:36.545818] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:36.54675] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:36.54766] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:26:36.548658] API: Loading model and scaling parameters
+[2025-07-24 00:26:36.568988] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:26:36.571207] API: Applying scaling to input data
+[2025-07-24 00:26:36.572463] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:26:36.574987] API: Making prediction
+[2025-07-24 00:26:36.604367] API: Prediction completed: High
+[2025-07-24 00:26:36.605684] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:26:50.456076] API: Health check accessed
+[2025-07-24 00:26:50.457161] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:50.458068] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:50.458991] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:50.459962] API: Model file exists: TRUE
+[2025-07-24 00:26:50.460799] API: Scaling file exists: TRUE
+[2025-07-24 00:26:50.461897] API: Health check passed - returning OK
+[2025-07-24 00:26:50.480316] API: Health check accessed
+[2025-07-24 00:26:50.481716] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:50.48296] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:50.484148] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:50.485428] API: Model file exists: TRUE
+[2025-07-24 00:26:50.486723] API: Scaling file exists: TRUE
+[2025-07-24 00:26:50.488009] API: Health check passed - returning OK
+[2025-07-24 00:26:50.596303] API: Health check accessed
+[2025-07-24 00:26:50.597337] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:50.598417] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:50.599459] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:50.600478] API: Model file exists: TRUE
+[2025-07-24 00:26:50.60139] API: Scaling file exists: TRUE
+[2025-07-24 00:26:50.602255] API: Health check passed - returning OK
+[2025-07-24 00:26:50.812146] API: Prediction request received
+[2025-07-24 00:26:50.814441] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:50.815918] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:50.817297] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:26:50.818781] API: Loading model and scaling parameters
+[2025-07-24 00:26:50.838845] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:26:50.840822] API: Applying scaling to input data
+[2025-07-24 00:26:50.841799] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:26:50.844138] API: Making prediction
+[2025-07-24 00:26:50.866928] API: Prediction completed: High
+[2025-07-24 00:26:50.86826] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:26:57.098893] API: Health check accessed
+[2025-07-24 00:26:57.099932] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:26:57.100797] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:57.101663] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:57.102611] API: Model file exists: TRUE
+[2025-07-24 00:26:57.103882] API: Scaling file exists: TRUE
+[2025-07-24 00:26:57.104877] API: Health check passed - returning OK
+[2025-07-24 00:26:57.135349] API: Prediction request received
+[2025-07-24 00:26:57.137057] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:26:57.13816] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:26:57.139415] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:26:57.140901] API: Loading model and scaling parameters
+[2025-07-24 00:26:57.156127] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:26:57.157699] API: Applying scaling to input data
+[2025-07-24 00:26:57.15863] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:26:57.160865] API: Making prediction
+[2025-07-24 00:26:57.185158] API: Prediction completed: High
+[2025-07-24 00:26:57.186253] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 00:27:19.397094] API: Health check accessed
+[2025-07-24 00:27:19.399089] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:27:19.401056] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:27:19.403067] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:27:19.40641] API: Model file exists: TRUE
+[2025-07-24 00:27:19.408213] API: Scaling file exists: TRUE
+[2025-07-24 00:27:19.409783] API: Health check passed - returning OK
+[2025-07-24 00:28:12.711272] API: Prediction request received
+[2025-07-24 00:40:05.112468] API: Health check accessed
+[2025-07-24 00:40:05.11347] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:40:05.114354] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:40:05.115242] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:40:05.116199] API: Model file exists: TRUE
+[2025-07-24 00:40:05.117064] API: Scaling file exists: TRUE
+[2025-07-24 00:40:05.117993] API: Health check passed - returning OK
+[2025-07-24 00:40:05.164917] API: Health check accessed
+[2025-07-24 00:40:05.166076] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:40:05.167092] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:40:05.167995] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:40:05.168921] API: Model file exists: TRUE
+[2025-07-24 00:40:05.169748] API: Scaling file exists: TRUE
+[2025-07-24 00:40:05.170688] API: Health check passed - returning OK
+[2025-07-24 00:40:05.283326] API: Health check accessed
+[2025-07-24 00:40:05.284258] API: Current directory: C:/Project/Second/api
+[2025-07-24 00:40:05.285122] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:40:05.286015] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:40:05.286965] API: Model file exists: TRUE
+[2025-07-24 00:40:05.287884] API: Scaling file exists: TRUE
+[2025-07-24 00:40:05.288957] API: Health check passed - returning OK
+[2025-07-24 00:40:05.36351] API: Prediction request received
+[2025-07-24 00:40:05.365015] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 00:40:05.365922] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 00:40:05.366798] API: Current working directory: C:/Project/Second/api
+[2025-07-24 00:40:05.367881] API: Loading model and scaling parameters
+[2025-07-24 00:40:05.384622] API: Model and scaling parameters loaded successfully
+[2025-07-24 00:40:05.386186] API: Applying scaling to input data
+[2025-07-24 00:40:05.387221] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 00:40:05.390198] API: Making prediction
+[2025-07-24 00:40:05.416106] API: Prediction completed: High
+[2025-07-24 00:40:05.417172] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 01:05:59.037716] API: Health check accessed
+[2025-07-24 01:05:59.039039] API: Current directory: C:/Project/Second/api
+[2025-07-24 01:05:59.040299] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:05:59.041139] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:05:59.04204] API: Model file exists: TRUE
+[2025-07-24 01:05:59.042926] API: Scaling file exists: TRUE
+[2025-07-24 01:05:59.043665] API: Health check passed - returning OK
+[2025-07-24 01:05:59.060503] API: Health check accessed
+[2025-07-24 01:05:59.061212] API: Current directory: C:/Project/Second/api
+[2025-07-24 01:05:59.061837] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:05:59.062456] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:05:59.063116] API: Model file exists: TRUE
+[2025-07-24 01:05:59.063764] API: Scaling file exists: TRUE
+[2025-07-24 01:05:59.064656] API: Health check passed - returning OK
+[2025-07-24 01:05:59.145565] API: Health check accessed
+[2025-07-24 01:05:59.146554] API: Current directory: C:/Project/Second/api
+[2025-07-24 01:05:59.147453] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:05:59.14838] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:05:59.149531] API: Model file exists: TRUE
+[2025-07-24 01:05:59.150557] API: Scaling file exists: TRUE
+[2025-07-24 01:05:59.151239] API: Health check passed - returning OK
+[2025-07-24 01:05:59.297073] API: Prediction request received
+[2025-07-24 01:05:59.298068] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:05:59.298706] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:05:59.299332] API: Current working directory: C:/Project/Second/api
+[2025-07-24 01:05:59.300196] API: Loading model and scaling parameters
+[2025-07-24 01:05:59.324044] API: Model and scaling parameters loaded successfully
+[2025-07-24 01:05:59.325281] API: Applying scaling to input data
+[2025-07-24 01:05:59.326065] API: Processed input data: [{"phq_total":4.4755,"self_harm_thoughts":1,"gad_total":2.2782,"mental_health_score":-1.315}]
+[2025-07-24 01:05:59.32774] API: Making prediction
+[2025-07-24 01:05:59.344923] API: Prediction completed: High
+[2025-07-24 01:05:59.34563] API: Probabilities: [{"High":0.708,"Low":0.0088,"Medium":0.2832}]
+[2025-07-24 01:25:04.689693] API: Prediction request received
+[2025-07-24 01:25:04.690986] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:25:04.691643] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:25:04.692309] API: Current working directory: C:/Project/Second/api
+[2025-07-24 01:25:04.692977] API: Loading model and scaling parameters
+[2025-07-24 01:25:04.702534] API: Model and scaling parameters loaded successfully
+[2025-07-24 01:25:04.70371] API: Applying scaling to input data
+[2025-07-24 01:25:04.704423] API: Processed input data: [{"phq_total":0.3827,"self_harm_thoughts":1,"gad_total":0.7848,"mental_health_score":-1.3487}]
+[2025-07-24 01:25:04.706004] API: Making prediction
+[2025-07-24 01:25:04.721321] API: Prediction completed: High
+[2025-07-24 01:25:04.722012] API: Probabilities: [{"High":0.7221,"Low":0.0168,"Medium":0.2611}]
+[2025-07-24 01:26:24.912694] API: Health check accessed
+[2025-07-24 01:26:24.913419] API: Current directory: C:/Project/Second/api
+[2025-07-24 01:26:24.914035] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:26:24.914699] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:26:24.915414] API: Model file exists: TRUE
+[2025-07-24 01:26:24.916057] API: Scaling file exists: TRUE
+[2025-07-24 01:26:24.916706] API: Health check passed - returning OK
+[2025-07-24 01:26:25.41298] API: Health check accessed
+[2025-07-24 01:26:25.413703] API: Current directory: C:/Project/Second/api
+[2025-07-24 01:26:25.414359] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 01:26:25.415018] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 01:26:25.415761] API: Model file exists: TRUE
+[2025-07-24 01:26:25.416432] API: Scaling file exists: TRUE
+[2025-07-24 01:26:25.417073] API: Health check passed - returning OK
+[2025-07-24 20:08:53.040321] API: Prediction request received
+[2025-07-24 20:08:53.077843] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:08:53.080165] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:08:53.08217] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:08:53.084315] API: Loading model and scaling parameters
+[2025-07-24 20:08:53.135247] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:08:53.139282] API: Applying scaling to input data
+[2025-07-24 20:08:53.141387] API: Processed input data: [{"phq_total":0.3827,"self_harm_thoughts":1,"gad_total":0.7848,"mental_health_score":-1.3487}]
+[2025-07-24 20:08:53.14829] API: Making prediction
+[2025-07-24 20:08:53.864197] API: Prediction completed: High
+[2025-07-24 20:08:53.86598] API: Probabilities: [{"High":0.7221,"Low":0.0168,"Medium":0.2611}]
+[2025-07-24 20:09:08.010878] API: Health check accessed
+[2025-07-24 20:09:08.011944] API: Current directory: C:/Project/Second/api
+[2025-07-24 20:09:08.012886] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:09:08.013801] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:09:08.01477] API: Model file exists: TRUE
+[2025-07-24 20:09:08.015613] API: Scaling file exists: TRUE
+[2025-07-24 20:09:08.016503] API: Health check passed - returning OK
+[2025-07-24 20:42:00.495816] API: Prediction request received
+[2025-07-24 20:42:00.501918] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:42:00.503562] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:42:00.505399] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:42:00.507376] API: Loading model and scaling parameters
+[2025-07-24 20:42:00.532115] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:42:00.534835] API: Applying scaling to input data
+[2025-07-24 20:42:00.536351] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 20:42:00.539599] API: Making prediction
+[2025-07-24 20:42:00.642858] API: Prediction completed: High
+[2025-07-24 20:42:00.64539] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-24 20:42:10.225216] API: Health check accessed
+[2025-07-24 20:42:10.226895] API: Current directory: C:/Project/Second/api
+[2025-07-24 20:42:10.228431] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:42:10.230017] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:42:10.231799] API: Model file exists: TRUE
+[2025-07-24 20:42:10.233433] API: Scaling file exists: TRUE
+[2025-07-24 20:42:10.235109] API: Health check passed - returning OK
+[2025-07-24 20:46:08.651659] API: Health check accessed
+[2025-07-24 20:46:08.653351] API: Current directory: C:/Project/Second/api
+[2025-07-24 20:46:08.654891] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:46:08.656604] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:46:08.658713] API: Model file exists: TRUE
+[2025-07-24 20:46:08.660564] API: Scaling file exists: TRUE
+[2025-07-24 20:46:08.662568] API: Health check passed - returning OK
+[2025-07-24 20:46:47.461032] API: Prediction request received
+[2025-07-24 20:46:47.469258] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:46:47.47197] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:46:47.47468] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:46:47.477872] API: Loading model and scaling parameters
+[2025-07-24 20:46:47.51454] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:46:47.519274] API: Applying scaling to input data
+[2025-07-24 20:46:47.521962] API: Processed input data: [{"phq_total":4.0576,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 20:46:47.527981] API: Making prediction
+[2025-07-24 20:46:47.581845] API: Prediction completed: High
+[2025-07-24 20:46:47.584609] API: Probabilities: [{"High":0.9163,"Low":0,"Medium":0.0837}]
+[2025-07-24 20:46:53.643195] API: Prediction request received
+[2025-07-24 20:46:53.65113] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:46:53.654787] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:46:53.658455] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:46:53.662267] API: Loading model and scaling parameters
+[2025-07-24 20:46:53.703751] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:46:53.70855] API: Applying scaling to input data
+[2025-07-24 20:46:53.712024] API: Processed input data: [{"phq_total":4.0576,"self_harm_thoughts":0,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 20:46:53.718218] API: Making prediction
+[2025-07-24 20:46:53.768264] API: Prediction completed: Medium
+[2025-07-24 20:46:53.770581] API: Probabilities: [{"High":0.0203,"Low":0.014,"Medium":0.9657}]
+[2025-07-24 20:46:56.650592] API: Prediction request received
+[2025-07-24 20:46:56.654971] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:46:56.656292] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:46:56.657863] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:46:56.659405] API: Loading model and scaling parameters
+[2025-07-24 20:46:56.682283] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:46:56.68575] API: Applying scaling to input data
+[2025-07-24 20:46:56.687726] API: Processed input data: [{"phq_total":4.0576,"self_harm_thoughts":0,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 20:46:56.692914] API: Making prediction
+[2025-07-24 20:46:56.730761] API: Prediction completed: Medium
+[2025-07-24 20:46:56.732394] API: Probabilities: [{"High":0.0203,"Low":0.014,"Medium":0.9657}]
+[2025-07-24 20:47:00.352652] API: Prediction request received
+[2025-07-24 20:47:00.362601] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:00.366079] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:00.36913] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:00.372649] API: Loading model and scaling parameters
+[2025-07-24 20:47:00.413409] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:00.417763] API: Applying scaling to input data
+[2025-07-24 20:47:00.420396] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 20:47:00.426215] API: Making prediction
+[2025-07-24 20:47:00.471486] API: Prediction completed: Medium
+[2025-07-24 20:47:00.473191] API: Probabilities: [{"High":0.0007,"Low":0.0598,"Medium":0.9395}]
+[2025-07-24 20:47:02.45426] API: Prediction request received
+[2025-07-24 20:47:02.463293] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:02.466981] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:02.470916] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:02.475151] API: Loading model and scaling parameters
+[2025-07-24 20:47:02.522328] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:02.528265] API: Applying scaling to input data
+[2025-07-24 20:47:02.531648] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":-2.3058,"mental_health_score":-1.386}]
+[2025-07-24 20:47:02.539032] API: Making prediction
+[2025-07-24 20:47:02.58059] API: Prediction completed: Low
+[2025-07-24 20:47:02.582635] API: Probabilities: [{"High":0,"Low":0.9042,"Medium":0.0958}]
+[2025-07-24 20:47:03.898508] API: Prediction request received
+[2025-07-24 20:47:03.906129] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:03.908598] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:03.912609] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:03.917154] API: Loading model and scaling parameters
+[2025-07-24 20:47:03.980261] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:03.985063] API: Applying scaling to input data
+[2025-07-24 20:47:03.988028] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":-2.3058,"mental_health_score":-1.386}]
+[2025-07-24 20:47:03.996883] API: Making prediction
+[2025-07-24 20:47:04.058281] API: Prediction completed: Low
+[2025-07-24 20:47:04.060459] API: Probabilities: [{"High":0,"Low":0.9042,"Medium":0.0958}]
+[2025-07-24 20:47:11.467402] API: Prediction request received
+[2025-07-24 20:47:11.477025] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:11.480096] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:11.482766] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:11.485848] API: Loading model and scaling parameters
+[2025-07-24 20:47:11.52729] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:11.53263] API: Applying scaling to input data
+[2025-07-24 20:47:11.536193] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":-2.3058,"mental_health_score":-1.696}]
+[2025-07-24 20:47:11.543445] API: Making prediction
+[2025-07-24 20:47:11.579472] API: Prediction completed: Low
+[2025-07-24 20:47:11.581466] API: Probabilities: [{"High":0,"Low":0.939,"Medium":0.061}]
+[2025-07-24 20:47:13.336869] API: Prediction request received
+[2025-07-24 20:47:13.346248] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:13.349027] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:13.351753] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:13.35483] API: Loading model and scaling parameters
+[2025-07-24 20:47:13.395809] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:13.400604] API: Applying scaling to input data
+[2025-07-24 20:47:13.403995] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":-2.3058,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:13.412147] API: Making prediction
+[2025-07-24 20:47:13.485617] API: Prediction completed: Low
+[2025-07-24 20:47:13.489513] API: Probabilities: [{"High":0.006,"Low":0.8967,"Medium":0.0973}]
+[2025-07-24 20:47:19.904223] API: Prediction request received
+[2025-07-24 20:47:19.915761] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:19.919913] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:19.92364] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:19.930014] API: Loading model and scaling parameters
+[2025-07-24 20:47:19.98678] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:19.993166] API: Applying scaling to input data
+[2025-07-24 20:47:19.997015] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":-1.5369,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:20.006464] API: Making prediction
+[2025-07-24 20:47:20.07135] API: Prediction completed: Low
+[2025-07-24 20:47:20.074131] API: Probabilities: [{"High":0.006,"Low":0.9208,"Medium":0.0732}]
+[2025-07-24 20:47:23.861614] API: Prediction request received
+[2025-07-24 20:47:23.87026] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:23.873036] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:23.876444] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:23.880754] API: Loading model and scaling parameters
+[2025-07-24 20:47:23.93193] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:23.935155] API: Applying scaling to input data
+[2025-07-24 20:47:23.937016] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:23.941375] API: Making prediction
+[2025-07-24 20:47:23.972994] API: Prediction completed: Medium
+[2025-07-24 20:47:23.974462] API: Probabilities: [{"High":0.1208,"Low":0.0563,"Medium":0.8229}]
+[2025-07-24 20:47:28.600174] API: Prediction request received
+[2025-07-24 20:47:28.609606] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:28.612811] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:28.616175] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:28.650209] API: Loading model and scaling parameters
+[2025-07-24 20:47:28.692153] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:28.697013] API: Applying scaling to input data
+[2025-07-24 20:47:28.700131] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:28.706287] API: Making prediction
+[2025-07-24 20:47:28.768279] API: Prediction completed: Medium
+[2025-07-24 20:47:28.771557] API: Probabilities: [{"High":0.1208,"Low":0.0543,"Medium":0.8249}]
+[2025-07-24 20:47:31.373316] API: Prediction request received
+[2025-07-24 20:47:31.382721] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:31.385759] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:31.389322] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:31.393895] API: Loading model and scaling parameters
+[2025-07-24 20:47:31.451555] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:31.459329] API: Applying scaling to input data
+[2025-07-24 20:47:31.462683] API: Processed input data: [{"phq_total":4.3915,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:31.468774] API: Making prediction
+[2025-07-24 20:47:31.532835] API: Prediction completed: Medium
+[2025-07-24 20:47:31.535985] API: Probabilities: [{"High":0.095,"Low":0.014,"Medium":0.891}]
+[2025-07-24 20:47:33.986504] API: Prediction request received
+[2025-07-24 20:47:33.996965] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:34.001021] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:34.004712] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:34.009497] API: Loading model and scaling parameters
+[2025-07-24 20:47:34.072375] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:34.078854] API: Applying scaling to input data
+[2025-07-24 20:47:34.081886] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:34.088153] API: Making prediction
+[2025-07-24 20:47:34.131783] API: Prediction completed: Medium
+[2025-07-24 20:47:34.133379] API: Probabilities: [{"High":0.1208,"Low":0.0543,"Medium":0.8249}]
+[2025-07-24 20:47:38.454446] API: Prediction request received
+[2025-07-24 20:47:38.465999] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:38.469956] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:38.47416] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:38.4784] API: Loading model and scaling parameters
+[2025-07-24 20:47:38.525431] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:38.530977] API: Applying scaling to input data
+[2025-07-24 20:47:38.53405] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:38.540247] API: Making prediction
+[2025-07-24 20:47:38.609693] API: Prediction completed: Medium
+[2025-07-24 20:47:38.612846] API: Probabilities: [{"High":0.1208,"Low":0.0543,"Medium":0.8249}]
+[2025-07-24 20:47:39.755733] API: Prediction request received
+[2025-07-24 20:47:39.76467] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:39.76738] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:39.770118] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:39.7733] API: Loading model and scaling parameters
+[2025-07-24 20:47:39.823601] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:39.82902] API: Applying scaling to input data
+[2025-07-24 20:47:39.832374] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:39.837475] API: Making prediction
+[2025-07-24 20:47:39.868597] API: Prediction completed: Medium
+[2025-07-24 20:47:39.870232] API: Probabilities: [{"High":0.1208,"Low":0.0543,"Medium":0.8249}]
+[2025-07-24 20:47:40.467235] API: Prediction request received
+[2025-07-24 20:47:40.477357] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:40.481234] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:40.485004] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:40.489009] API: Loading model and scaling parameters
+[2025-07-24 20:47:40.538118] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:40.544204] API: Applying scaling to input data
+[2025-07-24 20:47:40.547727] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:40.554667] API: Making prediction
+[2025-07-24 20:47:40.616189] API: Prediction completed: Medium
+[2025-07-24 20:47:40.619982] API: Probabilities: [{"High":0.095,"Low":0.014,"Medium":0.891}]
+[2025-07-24 20:47:47.429369] API: Prediction request received
+[2025-07-24 20:47:47.433308] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 20:47:47.434858] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 20:47:47.436702] API: Current working directory: C:/Project/Second/api
+[2025-07-24 20:47:47.439448] API: Loading model and scaling parameters
+[2025-07-24 20:47:47.482421] API: Model and scaling parameters loaded successfully
+[2025-07-24 20:47:47.488062] API: Applying scaling to input data
+[2025-07-24 20:47:47.491603] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":5.7671,"mental_health_score":-1.3516}]
+[2025-07-24 20:47:47.498053] API: Making prediction
+[2025-07-24 20:47:47.560896] API: Prediction completed: High
+[2025-07-24 20:47:47.564051] API: Probabilities: [{"High":0.911,"Low":0,"Medium":0.089}]
+[2025-07-24 21:46:33.987249] API: Prediction request received
+[2025-07-24 21:46:33.994301] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:46:33.996253] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:46:33.998177] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:46:34.000449] API: Loading model and scaling parameters
+[2025-07-24 21:46:34.027821] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:46:34.030651] API: Applying scaling to input data
+[2025-07-24 21:46:34.032245] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:46:34.035593] API: Making prediction
+[2025-07-24 21:46:34.184619] API: Prediction completed: High
+[2025-07-24 21:46:34.186398] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-24 21:46:52.469931] API: Health check accessed
+[2025-07-24 21:46:52.471715] API: Current directory: C:/Project/Second/api
+[2025-07-24 21:46:52.473369] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:46:52.47506] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:46:52.476919] API: Model file exists: TRUE
+[2025-07-24 21:46:52.478729] API: Scaling file exists: TRUE
+[2025-07-24 21:46:52.480582] API: Health check passed - returning OK
+[2025-07-24 21:49:21.928402] API: Prediction request received
+[2025-07-24 21:49:21.933256] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:21.934634] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:21.936067] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:21.938235] API: Loading model and scaling parameters
+[2025-07-24 21:49:21.965806] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:21.968453] API: Applying scaling to input data
+[2025-07-24 21:49:21.970139] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:49:21.973741] API: Making prediction
+[2025-07-24 21:49:22.004664] API: Prediction completed: High
+[2025-07-24 21:49:22.006331] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-24 21:49:38.661735] API: Prediction request received
+[2025-07-24 21:49:38.670496] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:38.673926] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:38.677444] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:38.681284] API: Loading model and scaling parameters
+[2025-07-24 21:49:38.735808] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:38.739248] API: Applying scaling to input data
+[2025-07-24 21:49:38.741025] API: Processed input data: [{"phq_total":-2.9555,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:49:38.744954] API: Making prediction
+[2025-07-24 21:49:38.781999] API: Prediction completed: High
+[2025-07-24 21:49:38.783734] API: Probabilities: [{"High":0.9367,"Low":0,"Medium":0.0633}]
+[2025-07-24 21:49:42.717431] API: Prediction request received
+[2025-07-24 21:49:42.726749] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:42.73048] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:42.734388] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:42.738487] API: Loading model and scaling parameters
+[2025-07-24 21:49:42.789259] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:42.794291] API: Applying scaling to input data
+[2025-07-24 21:49:42.797537] API: Processed input data: [{"phq_total":-2.6216,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:49:42.807078] API: Making prediction
+[2025-07-24 21:49:42.842663] API: Prediction completed: High
+[2025-07-24 21:49:42.844634] API: Probabilities: [{"High":0.9367,"Low":0,"Medium":0.0633}]
+[2025-07-24 21:49:50.082921] API: Prediction request received
+[2025-07-24 21:49:50.091544] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:50.094593] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:50.098363] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:50.102442] API: Loading model and scaling parameters
+[2025-07-24 21:49:50.153101] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:50.158725] API: Applying scaling to input data
+[2025-07-24 21:49:50.162235] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:49:50.172255] API: Making prediction
+[2025-07-24 21:49:50.229592] API: Prediction completed: High
+[2025-07-24 21:49:50.231068] API: Probabilities: [{"High":0.9367,"Low":0,"Medium":0.0633}]
+[2025-07-24 21:49:50.855315] API: Prediction request received
+[2025-07-24 21:49:50.865332] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:50.868796] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:50.872226] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:50.876577] API: Loading model and scaling parameters
+[2025-07-24 21:49:50.925747] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:50.930989] API: Applying scaling to input data
+[2025-07-24 21:49:50.934072] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-24 21:49:50.941122] API: Making prediction
+[2025-07-24 21:49:50.974637] API: Prediction completed: High
+[2025-07-24 21:49:50.976104] API: Probabilities: [{"High":0.9163,"Low":0,"Medium":0.0837}]
+[2025-07-24 21:49:55.848707] API: Prediction request received
+[2025-07-24 21:49:55.858481] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:49:55.862544] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:49:55.86635] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:49:55.870656] API: Loading model and scaling parameters
+[2025-07-24 21:49:55.922109] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:49:55.929547] API: Applying scaling to input data
+[2025-07-24 21:49:55.934401] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":5.7671,"mental_health_score":-1.386}]
+[2025-07-24 21:49:55.943067] API: Making prediction
+[2025-07-24 21:49:56.002926] API: Prediction completed: High
+[2025-07-24 21:49:56.005428] API: Probabilities: [{"High":0.911,"Low":0,"Medium":0.089}]
+[2025-07-24 21:50:00.605641] API: Prediction request received
+[2025-07-24 21:50:00.616358] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:00.62029] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:00.624412] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:00.628527] API: Loading model and scaling parameters
+[2025-07-24 21:50:00.681844] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:00.691775] API: Applying scaling to input data
+[2025-07-24 21:50:00.698024] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":5.7671,"mental_health_score":-1.386}]
+[2025-07-24 21:50:00.71002] API: Making prediction
+[2025-07-24 21:50:00.798116] API: Prediction completed: High
+[2025-07-24 21:50:00.802172] API: Probabilities: [{"High":0.911,"Low":0,"Medium":0.089}]
+[2025-07-24 21:50:08.170412] API: Prediction request received
+[2025-07-24 21:50:08.174822] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:08.176497] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:08.178243] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:08.180507] API: Loading model and scaling parameters
+[2025-07-24 21:50:08.211843] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:08.215562] API: Applying scaling to input data
+[2025-07-24 21:50:08.217306] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.386}]
+[2025-07-24 21:50:08.220654] API: Making prediction
+[2025-07-24 21:50:08.253472] API: Prediction completed: Medium
+[2025-07-24 21:50:08.255053] API: Probabilities: [{"High":0.095,"Low":0.014,"Medium":0.891}]
+[2025-07-24 21:50:13.122123] API: Prediction request received
+[2025-07-24 21:50:13.130657] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:13.133347] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:13.1361] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:13.139425] API: Loading model and scaling parameters
+[2025-07-24 21:50:13.186114] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:13.190964] API: Applying scaling to input data
+[2025-07-24 21:50:13.194014] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":1.7485}]
+[2025-07-24 21:50:13.199487] API: Making prediction
+[2025-07-24 21:50:13.243353] API: Prediction completed: Medium
+[2025-07-24 21:50:13.245213] API: Probabilities: [{"High":0.4507,"Low":0,"Medium":0.5493}]
+[2025-07-24 21:50:14.410678] API: Prediction request received
+[2025-07-24 21:50:14.41964] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:14.422911] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:14.426808] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:14.431186] API: Loading model and scaling parameters
+[2025-07-24 21:50:14.48362] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:14.488859] API: Applying scaling to input data
+[2025-07-24 21:50:14.492379] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":33.0942}]
+[2025-07-24 21:50:14.501116] API: Making prediction
+[2025-07-24 21:50:14.57764] API: Prediction completed: High
+[2025-07-24 21:50:14.581056] API: Probabilities: [{"High":0.5126,"Low":0,"Medium":0.4874}]
+[2025-07-24 21:50:17.919908] API: Prediction request received
+[2025-07-24 21:50:17.929834] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:17.933672] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:17.937503] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:17.941635] API: Loading model and scaling parameters
+[2025-07-24 21:50:17.992764] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:17.999247] API: Applying scaling to input data
+[2025-07-24 21:50:18.003106] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.696}]
+[2025-07-24 21:50:18.009928] API: Making prediction
+[2025-07-24 21:50:18.041465] API: Prediction completed: Medium
+[2025-07-24 21:50:18.043119] API: Probabilities: [{"High":0.095,"Low":0.024,"Medium":0.881}]
+[2025-07-24 21:50:20.026196] API: Prediction request received
+[2025-07-24 21:50:20.036085] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:20.040091] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:20.044042] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:20.047525] API: Loading model and scaling parameters
+[2025-07-24 21:50:20.097058] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:20.10247] API: Applying scaling to input data
+[2025-07-24 21:50:20.105946] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":380.9971}]
+[2025-07-24 21:50:20.113199] API: Making prediction
+[2025-07-24 21:50:20.153434] API: Prediction completed: High
+[2025-07-24 21:50:20.155172] API: Probabilities: [{"High":0.5126,"Low":0,"Medium":0.4874}]
+[2025-07-24 21:50:21.411264] API: Prediction request received
+[2025-07-24 21:50:21.420243] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:21.423836] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:21.427532] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:21.43165] API: Loading model and scaling parameters
+[2025-07-24 21:50:21.473954] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:21.477285] API: Applying scaling to input data
+[2025-07-24 21:50:21.479393] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":3825.5802}]
+[2025-07-24 21:50:21.4842] API: Making prediction
+[2025-07-24 21:50:21.516942] API: Prediction completed: High
+[2025-07-24 21:50:21.518877] API: Probabilities: [{"High":0.5126,"Low":0,"Medium":0.4874}]
+[2025-07-24 21:50:22.080997] API: Prediction request received
+[2025-07-24 21:50:22.090468] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:22.094588] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:22.098468] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:22.10194] API: Loading model and scaling parameters
+[2025-07-24 21:50:22.176803] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:22.181817] API: Applying scaling to input data
+[2025-07-24 21:50:22.184745] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":380.9971}]
+[2025-07-24 21:50:22.193574] API: Making prediction
+[2025-07-24 21:50:22.244813] API: Prediction completed: High
+[2025-07-24 21:50:22.246462] API: Probabilities: [{"High":0.5126,"Low":0,"Medium":0.4874}]
+[2025-07-24 21:50:24.083339] API: Prediction request received
+[2025-07-24 21:50:24.092225] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:24.09544] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:24.099206] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:24.103256] API: Loading model and scaling parameters
+[2025-07-24 21:50:24.156092] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:24.161602] API: Applying scaling to input data
+[2025-07-24 21:50:24.164211] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3171}]
+[2025-07-24 21:50:24.170201] API: Making prediction
+[2025-07-24 21:50:24.203812] API: Prediction completed: Medium
+[2025-07-24 21:50:24.205407] API: Probabilities: [{"High":0.095,"Low":0.014,"Medium":0.891}]
+[2025-07-24 21:50:26.497982] API: Prediction request received
+[2025-07-24 21:50:26.506988] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:26.510702] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:26.514508] API: Current working directory: C:/Project/Second/api
+[2025-07-24 21:50:26.518598] API: Loading model and scaling parameters
+[2025-07-24 21:50:26.564077] API: Model and scaling parameters loaded successfully
+[2025-07-24 21:50:26.570927] API: Applying scaling to input data
+[2025-07-24 21:50:26.575108] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":0,"gad_total":5.7671,"mental_health_score":-1.3171}]
+[2025-07-24 21:50:26.585599] API: Making prediction
+[2025-07-24 21:50:26.648546] API: Prediction completed: Medium
+[2025-07-24 21:50:26.652456] API: Probabilities: [{"High":0.095,"Low":0.014,"Medium":0.891}]
+[2025-07-24 21:50:38.893194] API: Health check accessed
+[2025-07-24 21:50:38.894816] API: Current directory: C:/Project/Second/api
+[2025-07-24 21:50:38.896202] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 21:50:38.897547] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 21:50:38.899024] API: Model file exists: TRUE
+[2025-07-24 21:50:38.900363] API: Scaling file exists: TRUE
+[2025-07-24 21:50:38.901972] API: Health check passed - returning OK
+[2025-07-24 23:12:26.024902] API: Health check accessed
+[2025-07-24 23:12:26.026611] API: Current directory: C:/Project/Second/api
+[2025-07-24 23:12:26.029131] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 23:12:26.029883] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 23:12:26.03046] API: Model file exists: TRUE
+[2025-07-24 23:12:26.030972] API: Scaling file exists: TRUE
+[2025-07-24 23:12:26.031525] API: Health check passed - returning OK
+[2025-07-24 23:13:15.48218] API: Health check accessed
+[2025-07-24 23:13:15.484277] API: Current directory: C:/Project/Second/api
+[2025-07-24 23:13:15.48601] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-24 23:13:15.487425] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-24 23:13:15.489176] API: Model file exists: TRUE
+[2025-07-24 23:13:15.490768] API: Scaling file exists: TRUE
+[2025-07-24 23:13:15.492253] API: Health check passed - returning OK
+[2025-07-25 16:53:37.311666] API: Prediction request received
+[2025-07-25 16:53:37.317228] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:53:37.3185] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:53:37.319629] API: Current working directory: C:/Project/Second/api
+[2025-07-25 16:53:37.320838] API: Loading model and scaling parameters
+[2025-07-25 16:53:37.353777] API: Model and scaling parameters loaded successfully
+[2025-07-25 16:53:37.356637] API: Applying scaling to input data
+[2025-07-25 16:53:37.3581] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 16:53:37.361474] API: Making prediction
+[2025-07-25 16:53:37.932167] API: Prediction completed: High
+[2025-07-25 16:53:37.933862] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-25 16:53:41.903071] API: Prediction request received
+[2025-07-25 16:53:41.905354] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:53:41.906067] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:53:41.906923] API: Current working directory: C:/Project/Second/api
+[2025-07-25 16:53:41.907663] API: Loading model and scaling parameters
+[2025-07-25 16:53:41.917133] API: Model and scaling parameters loaded successfully
+[2025-07-25 16:53:41.918364] API: Applying scaling to input data
+[2025-07-25 16:53:41.919121] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 16:53:41.920665] API: Making prediction
+[2025-07-25 16:53:41.934839] API: Prediction completed: High
+[2025-07-25 16:53:41.935536] API: Probabilities: [{"High":0.9367,"Low":0,"Medium":0.0633}]
+[2025-07-25 16:53:43.101963] API: Prediction request received
+[2025-07-25 16:53:43.104066] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:53:43.105008] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:53:43.10583] API: Current working directory: C:/Project/Second/api
+[2025-07-25 16:53:43.106625] API: Loading model and scaling parameters
+[2025-07-25 16:53:43.114439] API: Model and scaling parameters loaded successfully
+[2025-07-25 16:53:43.115578] API: Applying scaling to input data
+[2025-07-25 16:53:43.116271] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 16:53:43.118468] API: Making prediction
+[2025-07-25 16:53:43.133918] API: Prediction completed: High
+[2025-07-25 16:53:43.134588] API: Probabilities: [{"High":0.9163,"Low":0,"Medium":0.0837}]
+[2025-07-25 16:53:46.618604] API: Prediction request received
+[2025-07-25 16:53:46.62085] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:53:46.62169] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:53:46.62262] API: Current working directory: C:/Project/Second/api
+[2025-07-25 16:53:46.623916] API: Loading model and scaling parameters
+[2025-07-25 16:53:46.638597] API: Model and scaling parameters loaded successfully
+[2025-07-25 16:53:46.640193] API: Applying scaling to input data
+[2025-07-25 16:53:46.640903] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":5.7671,"mental_health_score":-1.386}]
+[2025-07-25 16:53:46.642482] API: Making prediction
+[2025-07-25 16:53:46.656919] API: Prediction completed: High
+[2025-07-25 16:53:46.657576] API: Probabilities: [{"High":0.911,"Low":0,"Medium":0.089}]
+[2025-07-25 16:53:54.320087] API: Health check accessed
+[2025-07-25 16:53:54.320799] API: Current directory: C:/Project/Second/api
+[2025-07-25 16:53:54.321458] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:53:54.322142] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:53:54.322871] API: Model file exists: TRUE
+[2025-07-25 16:53:54.323524] API: Scaling file exists: TRUE
+[2025-07-25 16:53:54.324129] API: Health check passed - returning OK
+[2025-07-25 16:56:39.880067] API: Health check accessed
+[2025-07-25 16:56:39.880776] API: Current directory: C:/Project/Second/api
+[2025-07-25 16:56:39.881442] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-25 16:56:39.88223] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 16:56:39.883002] API: Model file exists: TRUE
+[2025-07-25 16:56:39.883697] API: Scaling file exists: TRUE
+[2025-07-25 16:56:39.884577] API: Health check passed - returning OK
+[2025-07-25 20:02:45.389069] API: Prediction request received
+[2025-07-25 20:02:45.396656] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 20:02:45.398619] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 20:02:45.400454] API: Current working directory: C:/Project/Second/api
+[2025-07-25 20:02:45.402504] API: Loading model and scaling parameters
+[2025-07-25 20:02:45.444082] API: Model and scaling parameters loaded successfully
+[2025-07-25 20:02:45.447379] API: Applying scaling to input data
+[2025-07-25 20:02:45.449448] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 20:02:45.454385] API: Making prediction
+[2025-07-25 20:02:45.981431] API: Prediction completed: High
+[2025-07-25 20:02:45.983082] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-25 20:02:57.39417] API: Prediction request received
+[2025-07-25 20:02:57.398788] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 20:02:57.400641] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 20:02:57.402241] API: Current working directory: C:/Project/Second/api
+[2025-07-25 20:02:57.404193] API: Loading model and scaling parameters
+[2025-07-25 20:02:57.429023] API: Model and scaling parameters loaded successfully
+[2025-07-25 20:02:57.431929] API: Applying scaling to input data
+[2025-07-25 20:02:57.433554] API: Processed input data: [{"phq_total":-2.2876,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 20:02:57.437631] API: Making prediction
+[2025-07-25 20:02:57.472423] API: Prediction completed: High
+[2025-07-25 20:02:57.474195] API: Probabilities: [{"High":0.9367,"Low":0,"Medium":0.0633}]
+[2025-07-25 20:02:57.530119] API: Prediction request received
+[2025-07-25 20:02:57.534785] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 20:02:57.536951] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 20:02:57.538841] API: Current working directory: C:/Project/Second/api
+[2025-07-25 20:02:57.540756] API: Loading model and scaling parameters
+[2025-07-25 20:02:57.568323] API: Model and scaling parameters loaded successfully
+[2025-07-25 20:02:57.571474] API: Applying scaling to input data
+[2025-07-25 20:02:57.573372] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-25 20:02:57.577049] API: Making prediction
+[2025-07-25 20:02:57.60368] API: Prediction completed: High
+[2025-07-25 20:02:57.605513] API: Probabilities: [{"High":0.9163,"Low":0,"Medium":0.0837}]
+[2025-07-25 20:03:00.56819] API: Prediction request received
+[2025-07-25 20:03:00.577235] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-25 20:03:00.581212] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 20:03:00.585128] API: Current working directory: C:/Project/Second/api
+[2025-07-25 20:03:00.589714] API: Loading model and scaling parameters
+[2025-07-25 20:03:00.639404] API: Model and scaling parameters loaded successfully
+[2025-07-25 20:03:00.644848] API: Applying scaling to input data
+[2025-07-25 20:03:00.64881] API: Processed input data: [{"phq_total":6.0613,"self_harm_thoughts":1,"gad_total":5.7671,"mental_health_score":-1.386}]
+[2025-07-25 20:03:00.657786] API: Making prediction
+[2025-07-25 20:03:00.701852] API: Prediction completed: High
+[2025-07-25 20:03:00.704788] API: Probabilities: [{"High":0.911,"Low":0,"Medium":0.089}]
+[2025-07-25 20:03:11.132059] API: Health check accessed
+[2025-07-25 20:03:11.133468] API: Current directory: C:/Project/Second/api
+[2025-07-25 20:03:11.134979] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-25 20:03:11.136384] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-25 20:03:11.138066] API: Model file exists: TRUE
+[2025-07-25 20:03:11.139628] API: Scaling file exists: TRUE
+[2025-07-25 20:03:11.141117] API: Health check passed - returning OK
+[2025-07-30 11:18:29.309272] API: Health check accessed
+[2025-07-30 11:18:29.311186] API: Current directory: C:/Project/Second/api
+[2025-07-30 11:18:29.31269] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-30 11:18:29.314111] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-30 11:18:29.315675] API: Model file exists: TRUE
+[2025-07-30 11:18:29.317367] API: Scaling file exists: TRUE
+[2025-07-30 11:18:29.319278] API: Health check passed - returning OK
+[2025-07-30 11:18:59.219863] API: Prediction request received
+[2025-07-30 11:18:59.22355] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-30 11:18:59.224877] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-30 11:18:59.226526] API: Current working directory: C:/Project/Second/api
+[2025-07-30 11:18:59.228415] API: Loading model and scaling parameters
+[2025-07-30 11:18:59.246941] API: Model and scaling parameters loaded successfully
+[2025-07-30 11:18:59.248758] API: Applying scaling to input data
+[2025-07-30 11:18:59.249981] API: Processed input data: [{"phq_total":0.384,"self_harm_thoughts":1,"gad_total":0.7696,"mental_health_score":-1.386}]
+[2025-07-30 11:18:59.252643] API: Making prediction
+[2025-07-30 11:18:59.351883] API: Prediction completed: High
+[2025-07-30 11:18:59.353296] API: Probabilities: [{"High":0.9199,"Low":0,"Medium":0.0801}]
+[2025-07-31 16:08:43.573228] API: Health check accessed
+[2025-07-31 16:08:43.578421] API: Current directory: C:/Project/Second/api
+[2025-07-31 16:08:43.581069] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-07-31 16:08:43.583335] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-31 16:08:43.585792] API: Model file exists: TRUE
+[2025-07-31 16:08:43.587845] API: Scaling file exists: TRUE
+[2025-07-31 16:08:43.589685] API: Health check passed - returning OK
+[2025-07-31 16:10:18.405221] API: Prediction request received
+[2025-07-31 16:10:18.411265] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-31 16:10:18.428159] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-31 16:10:18.430392] API: Current working directory: C:/Project/Second/api
+[2025-07-31 16:10:18.432745] API: Loading model and scaling parameters
+[2025-07-31 16:10:18.476629] API: Model and scaling parameters loaded successfully
+[2025-07-31 16:10:18.479472] API: Applying scaling to input data
+[2025-07-31 16:10:18.481161] API: Processed input data: [{"phq_total":-2.6216,"self_harm_thoughts":1,"gad_total":1.9229,"mental_health_score":-1.0416}]
+[2025-07-31 16:10:18.4846] API: Making prediction
+[2025-07-31 16:10:18.601171] API: Prediction completed: High
+[2025-07-31 16:10:18.603417] API: Probabilities: [{"High":0.9368,"Low":0.002,"Medium":0.0612}]
+[2025-07-31 16:10:23.772443] API: Prediction request received
+[2025-07-31 16:10:23.778026] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-31 16:10:23.780013] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-31 16:10:23.782031] API: Current working directory: C:/Project/Second/api
+[2025-07-31 16:10:23.784248] API: Loading model and scaling parameters
+[2025-07-31 16:10:23.812451] API: Model and scaling parameters loaded successfully
+[2025-07-31 16:10:23.816241] API: Applying scaling to input data
+[2025-07-31 16:10:23.818591] API: Processed input data: [{"phq_total":-2.6216,"self_harm_thoughts":1,"gad_total":1.9229,"mental_health_score":-1.0416}]
+[2025-07-31 16:10:23.824636] API: Making prediction
+[2025-07-31 16:10:23.885683] API: Prediction completed: High
+[2025-07-31 16:10:23.889434] API: Probabilities: [{"High":0.9368,"Low":0.002,"Medium":0.0612}]
+[2025-07-31 16:10:26.458766] API: Prediction request received
+[2025-07-31 16:10:26.46559] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-07-31 16:10:26.467379] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-07-31 16:10:26.469047] API: Current working directory: C:/Project/Second/api
+[2025-07-31 16:10:26.470938] API: Loading model and scaling parameters
+[2025-07-31 16:10:26.500203] API: Model and scaling parameters loaded successfully
+[2025-07-31 16:10:26.504344] API: Applying scaling to input data
+[2025-07-31 16:10:26.506926] API: Processed input data: [{"phq_total":-2.6216,"self_harm_thoughts":1,"gad_total":1.9229,"mental_health_score":-1.0416}]
+[2025-07-31 16:10:26.512332] API: Making prediction
+[2025-07-31 16:10:26.552637] API: Prediction completed: High
+[2025-07-31 16:10:26.554732] API: Probabilities: [{"High":0.9368,"Low":0.002,"Medium":0.0612}]
+[2025-08-07 20:26:49.426051] API: Health check accessed
+[2025-08-07 20:26:49.579254] API: Current directory: C:/Project/Second/api
+[2025-08-07 20:26:49.585106] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-07 20:26:49.588439] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-07 20:26:49.592034] API: Model file exists: TRUE
+[2025-08-07 20:26:49.595407] API: Scaling file exists: TRUE
+[2025-08-07 20:26:49.600213] API: Health check passed - returning OK
+[2025-08-07 20:28:25.650956] API: Prediction request received
+[2025-08-07 20:28:25.657601] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-08-07 20:28:25.659645] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-07 20:28:25.661645] API: Current working directory: C:/Project/Second/api
+[2025-08-07 20:28:25.663774] API: Loading model and scaling parameters
+[2025-08-07 20:28:25.707163] API: Model and scaling parameters loaded successfully
+[2025-08-07 20:28:25.710977] API: Applying scaling to input data
+[2025-08-07 20:28:25.713137] API: Processed input data: [{"phq_total":-0.2839,"self_harm_thoughts":1,"gad_total":-0.3837,"mental_health_score":-1.7305}]
+[2025-08-07 20:28:25.719935] API: Making prediction
+[2025-08-07 20:28:25.845695] API: Prediction completed: High
+[2025-08-07 20:28:25.847603] API: Probabilities: [{"High":0.9804,"Low":0.0196,"Medium":0}]
+[2025-08-11 07:41:52.696719] API: Health check accessed
+[2025-08-11 07:41:52.698452] API: Current directory: C:/Project/Second/api
+[2025-08-11 07:41:52.699201] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-11 07:41:52.699845] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-11 07:41:52.700507] API: Model file exists: TRUE
+[2025-08-11 07:41:52.70118] API: Scaling file exists: TRUE
+[2025-08-11 07:41:52.701826] API: Health check passed - returning OK
+[2025-08-11 07:48:14.340321] API: Health check accessed
+[2025-08-11 07:48:14.341209] API: Current directory: C:/Project/Second/api
+[2025-08-11 07:48:14.341821] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-11 07:48:14.342434] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-11 07:48:14.343105] API: Model file exists: TRUE
+[2025-08-11 07:48:14.343698] API: Scaling file exists: TRUE
+[2025-08-11 07:48:14.344265] API: Health check passed - returning OK
+[2025-08-11 08:13:20.410091] API: Health check accessed
+[2025-08-11 08:13:20.411227] API: Current directory: C:/Project/Second/api
+[2025-08-11 08:13:20.412516] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-11 08:13:20.41358] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-11 08:13:20.414686] API: Model file exists: TRUE
+[2025-08-11 08:13:20.41575] API: Scaling file exists: TRUE
+[2025-08-11 08:13:20.416649] API: Health check passed - returning OK
+[2025-08-11 08:53:42.086018] API: Health check accessed
+[2025-08-11 08:53:42.087303] API: Current directory: C:/Project/Second/api
+[2025-08-11 08:53:42.088138] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-11 08:53:42.088985] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-11 08:53:42.090029] API: Model file exists: TRUE
+[2025-08-11 08:53:42.091095] API: Scaling file exists: TRUE
+[2025-08-11 08:53:42.091942] API: Health check passed - returning OK
+[2025-08-20 14:36:27.538542] API: Health check accessed
+[2025-08-20 14:36:27.544805] API: Current directory: C:/Project/Second/api
+[2025-08-20 14:36:27.547748] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-08-20 14:36:27.550271] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-08-20 14:36:27.553916] API: Model file exists: TRUE
+[2025-08-20 14:36:27.556878] API: Scaling file exists: TRUE
+[2025-08-20 14:36:27.559454] API: Health check passed - returning OK
+[2025-11-26 09:46:40.103907] API: Health check accessed
+[2025-11-26 09:46:40.107864] API: Current directory: C:/Project/Second/api
+[2025-11-26 09:46:40.110316] API: Model path: C:/Project/Second/model/output/model.rds
+[2025-11-26 09:46:40.113612] API: Scaling path: C:/Project/Second/data/output/scaling_params.rds
+[2025-11-26 09:46:40.116656] API: Model file exists: TRUE
+[2025-11-26 09:46:40.119375] API: Scaling file exists: TRUE
+[2025-11-26 09:46:40.12221] API: Health check passed - returning OK
+[2025-11-26 09:47:34.21379] API: Prediction request received
+[2025-11-26 09:47:34.220522] API: Looking for model at: C:/Project/Second/model/output/model.rds
+[2025-11-26 09:47:34.221993] API: Looking for scaling params at: C:/Project/Second/data/output/scaling_params.rds
+[2025-11-26 09:47:34.22349] API: Current working directory: C:/Project/Second/api
+[2025-11-26 09:47:34.225137] API: Loading model and scaling parameters
+[2025-11-26 09:47:34.261697] API: Model and scaling parameters loaded successfully
+[2025-11-26 09:47:34.264387] API: Applying scaling to input data
+[2025-11-26 09:47:34.266101] API: Processed input data: [{"phq_total":0.3733,"self_harm_thoughts":1,"gad_total":0.7529,"mental_health_score":-1.385}]
+[2025-11-26 09:47:34.269866] API: Making prediction
+[2025-11-26 09:47:34.367518] API: Prediction completed: High
+[2025-11-26 09:47:34.369019] API: Probabilities: [{"High":0.9201,"Low":0,"Medium":0.0799}]

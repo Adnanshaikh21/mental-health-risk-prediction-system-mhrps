@@ -1,0 +1,8 @@
+FROM rocker/r-ver:4.5.1
+RUN R -e "install.packages(c('plumber', 'jose', 'config', 'jsonlite', 'httr'))"
+COPY api /srv/api/
+COPY config /srv/api/config/
+COPY data /srv/api/data/
+COPY model /srv/api/model/
+EXPOSE 8000
+CMD ["R", "-e", "library(plumber); pr <- plumb('/srv/api/run_api.R'); pr$run(host='0.0.0.0', port=8000)"]
